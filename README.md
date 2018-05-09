@@ -1,5 +1,7 @@
 # -Kim817765787
 This is the github for my CompE561 Final Assignment.
+Everything you need to grade this is in the Kim817765787.zip file.
+The other files are there incase you wanted to view the individual files
 Please do note that a large chunk of my code is from documents found online
 I am not plagiarizing, but there was simply too many lines of code from
 all different sorts of sources for me to go over and mark each one with a comment
